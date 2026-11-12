@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">Shima Kabare Ebenezer</title>
+  <desc id="desc">Full-stack developer. Web, real-time systems, and interactive experiences. Kigali, Rwanda.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101826"/><stop offset="1" stop-color="#080d15"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#438fff"/><stop offset=".68" stop-color="#438fff"/><stop offset="1" stop-color="#e25e6b"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#5479a5" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1200" height="290" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="290" rx="16" fill="url(#grid)"/>
+  <g fill="none" stroke="#599dff" stroke-opacity=".16"><circle cx="1110" cy="142" r="192"/><circle cx="1110" cy="142" r="147"/><circle cx="1110" cy="142" r="102"/></g>
+  <path d="M55 51H87" stroke="#6aa8ff" stroke-width="3"/>
+  <text x="103" y="56" fill="#a1b4ce" font-family="monospace" font-size="13" letter-spacing="3">EKSHM4 / SOFTWARE &amp; SYSTEMS</text>
+  <text x="54" y="124" fill="#f0f5fc" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="53" letter-spacing="-2">Shima Kabare Ebenezer</text>
+  <text x="57" y="164" fill="#80b5ff" font-family="monospace" font-size="20">Full-stack developer. Practical problem solver.</text>
+  <text x="57" y="214" fill="#a1b4ce" font-family="Arial,Helvetica,sans-serif" font-size="16">Web applications / Real-time tools / Interactive experiences</text>
+  <text x="57" y="245" fill="#778da9" font-family="monospace" font-size="12" letter-spacing="2">BASED IN KIGALI, RWANDA</text>
+  <path d="M57 271H1143" stroke="url(#line)" stroke-width="2"/>
+</svg>
