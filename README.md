@@ -1,4 +1,15 @@
 <p align="center">
+  <a href="https://gifer.com/en/5Btx">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/scene-still.png" />
+      <img src="assets/scene.gif" width="100" height="100" alt="Animated pixel-art Sonic running" />
+    </picture>
+  </a>
+  <br />
+  <sub><a href="https://gifer.com/en/5Btx">via GIFER</a></sub>
+</p>
+
+<p align="center">
   <img src="assets/header.svg" width="100%" alt="Shima Kabare Ebenezer — full-stack developer in Kigali, Rwanda" />
 </p>
 
@@ -10,13 +21,6 @@
 
 ## Hey, I'm Shima.
 
-<a href="https://gifer.com/en/DVx4">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/scene-still.png" />
-    <img align="right" src="assets/scene.gif" width="300" height="225" alt="A cloaked Star Wars character with a red lightsaber standing in a snowy forest" />
-  </picture>
-</a>
-
 I'm a **full-stack developer based in Kigali, Rwanda**, studying Software Engineering at **African Leadership University · 2026–2029**.
 
 I turn ideas into web applications, real-time tools, and interactive experiences. My work spans React interfaces, Node.js APIs, self-hosted systems, and AI integrations.
@@ -25,10 +29,6 @@ I turn ideas into web applications, real-time tools, and interactive experiences
 - **Working with:** JavaScript, TypeScript, React, Next.js, and Express.
 - **Exploring:** Python, desktop and mobile apps, and developer tools.
 - **I care about:** clear interfaces, maintainable systems, and understanding the people using them.
-
-<br clear="right" />
-
-<p align="right"><sub>Animation: <a href="https://gifer.com/en/DVx4">GIFER · DVx4</a></sub></p>
 
 ## My toolkit
 
